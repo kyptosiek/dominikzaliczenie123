@@ -1,0 +1,13 @@
+body{background-color: red;
+    background-repeat: no-repeat;
+    background-image:url(b.png), url(a.png);
+    background-position: center;
+    border: 400px;
+    border-color: black;
+    size: 1000px;
+}
+h1 { color: yellow; text-align: center;  margin-left: 500px;  margin-right: 500px; background-color: palevioletred; margin-top: 50;
+
+}
+#imie_nazwisko {
+ margin-top: 250px;   
